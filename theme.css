@@ -71,3 +71,5 @@ a.notdonestep { border: 1px solid #ecebe7; color: #333; }
 
 
 .carousel-inner .item, .swiper-wrapper .swiper-slide { border-radius: 0px;}
+
+.search-tour-listing .item .tourimage-thumb, .tour-listing .item .tourimage-thumb, .tour-listing .swiper-slide .tourimage-thumb { border-radius: 0px;}
