@@ -67,3 +67,7 @@ a.notdonestep { border: 1px solid #ecebe7; color: #333; }
     .stepwizard-step p { margin-top: 5px; font-size: 14px; }
     .stepwizard { max-width: 100%; }
 }
+
+
+
+.carousel-inner .item, .swiper-wrapper .swiper-slide { border-radius: 0px;}
