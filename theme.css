@@ -1,0 +1,69 @@
+/* CSS for Bakground-1 */
+.return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
+.tour-section h2 span, .activity-footer a:hover, .activity-footer button:hover, .Form-label-checkbox+.Form-label-text:hover:before,.Form-label-radio+.Form-label-text:hover:before, .promo-form input[type=text] { border-color: #ff712c;}
+.search-panel .search-button button, .search-result-button button, .checkout .order-submit-btn input[type=submit], .favourite-copy-link .fav-copylink,.general-button, .store-payment input[type=submit], .ui-datepicker-current-day, .fav-acitivity .caption-price a, .fav-acitivity button, .Form-label-checkbox:checked+.Form-label-text::before, .Form-label-radio:checked+.Form-label-text::before, input:checked+.slider, .newsletter-form button, .newsletter-form input[type=submit], .button a, .fav-acitivity .caption-price a,.fav-acitivity button, input:checked+.slider, .fav-acitivity .caption-price a, .fav-acitivity button, .swiper-wrapper .caption-price a, .swiper-wrapper button, .newsletter-form button, .newsletter-form input[type=submit], .service-list .swiper-slide a, .find-bus-button, .daterangepicker td.active,.daterangepicker td.active:hover,.daterangepicker td.in-range { border: 1px solid #203769; background-color:#203769; box-shadow:none!important; color:#fff;}
+
+
+
+/* CSS for Bakground-2 */
+.livechat, .filter-toggle .filter-link, .discount-offer, .ui-datepicker-current-day { background-color:#1e2458!important; }
+.navbar-default.custom-fixed-top { background-color:#1E2458!important; box-shadow:0px 0px 10px #ccc; }
+
+
+
+/* CSS for Text Color */
+.search-panel .dropdown-menu .searchlist p,.search-result .dropdown-menu .searchlist p, .our-service h2 { color:#603721;}
+.top-navigation li a, .navbar-default .navbar-nav>li>a, .currency-selector .dropdown-toggle a { color:#3e3d40;}
+
+/* CSS for LINK Color */
+
+.main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
+.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important;}
+
+
+/* CSS for border Color */
+.final-order-review .promo-area { border-top:1px solid rgba(0,0,0,0.2); border-bottom:1px solid rgba(0,0,0,0.2); }
+
+
+/* CSS for White Color */
+.local-acitivity .box-caption, footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .caption-price a, .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#fff!important;}
+.navbar-default.custom-fixed-top .navbar-nav>li>a, .custom-fixed-top .currency-selector .dropdown-toggle a, .custom-fixed-top .top-navigation li a {color:#fff;}
+.custom-fixed-top .top-navigation li ul li a { color:#3e3d40;}
+
+
+/* CSS for Extra Background Color */
+footer .footer-bg { background: #333333; }
+.our-service { background-color:rgba(0,0,0,0.05);}
+.pay-card-input .dropdown-menu li.focus,.pay-card-input .dropdown-menu li.selected,.pay-card-input .dropdown-menu li:hover,.search-panel .dropdown-menu li.selected,.search-panel .dropdown-menu li:focus,.search-panel .dropdown-menu li:hover,.search-result .dropdown-menu li.selected,.search-result .dropdown-menu li:hover{color:#42ac9b!important}
+
+
+/* CSS for Borders Box Shadow Colors */
+.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide{border:1px solid rgba(0,0,0,0.1); box-shadow:0 0 5px #ccc;}
+.our-service .swiper-slide { box-shadow: none!important; border: none!important;}
+.socialize,footer .footer-bg{border-top:1px solid rgba(255,255,255,0.2)}
+
+/* CSS for gradient button */
+.payment-flow .continue-button input[type=submit], .checkout .continue-button input, .promo-form input[type=button], .button-container button:focus, .button-container button:hover, .button-container button, .btn-continue { border:1px solid #1e2458;background:#1e2458; color:#fff;}
+
+
+
+
+/* Step Wizard */
+
+.stepwizard { display: table; width: 100%; position: relative; max-width: 80%; margin: 20px auto 0px auto; }
+.stepwizard-step p { margin-top: 5px; }
+.stepwizard-row { display: table-row; }
+.stepwizard-row:after { top: 16px;  bottom: 0; position: absolute; content: " "; width: calc(100% - 29%); height: 1px; background-color: #d1d1d1; left: 15%; z-index: -1; }
+.stepwizard-step { display: table-cell; text-align: center; position: relative; }
+.activestep, a.notdonestep, a.donestep { width: 30px; height: 30px; display: inline-block; border-radius: 50%; font-weight: bold; font-weight: bold; line-height: 27px; background: #fff; }
+a.donestep { border: 1px solid #ecebe7; color: #5dc06e; }
+a.notdonestep { border: 1px solid #ecebe7; color: #333; }
+.activestep { background: #5dc06e; border: 1px solid #5dc06e; color: #FFF; }
+.activestep:hover { color: #FFF; }
+.error-notification { font-size:14px; }
+
+@media screen and (max-width:767px) {
+    .main-menu-link ul li a, .navbar-default .navbar-nav > li > a { color: #fff!important;}
+    .stepwizard-step p { margin-top: 5px; font-size: 14px; }
+    .stepwizard { max-width: 100%; }
+}
