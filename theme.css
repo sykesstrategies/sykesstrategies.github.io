@@ -46,6 +46,8 @@ footer .footer-bg { background: #333333; }
 .payment-flow .continue-button input[type=submit], .checkout .continue-button input, .promo-form input[type=button], .button-container button:focus, .button-container button:hover, .button-container button, .btn-continue { border:1px solid #1e2458;background:#1e2458; color:#fff;}
 
 
+.add-favourite, .added-favourite {right: 0px; top: 0px; }
+
 
 
 /* Step Wizard */
