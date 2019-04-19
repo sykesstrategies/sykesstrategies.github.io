@@ -5,7 +5,9 @@
 @font-face { font-family: 'agaramondpro-regular'; src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot"); src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff2") format("woff2"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff") format("woff"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.ttf") format("truetype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.svg#agaramondpro-regular") format("svg"); font-weight: normal; font-style: normal; }
 
 
-H3 {font-family: 'agaramondpro-regular'; }
+body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
+
+H3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 /* CSS for Bakground-1 */
 .return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
