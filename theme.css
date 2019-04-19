@@ -38,7 +38,7 @@ footer .footer-bg { background: #333333; }
 
 
 /* CSS for Borders Box Shadow Colors */
-.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide{border:1px solid rgba(0,0,0,0.1); box-shadow:0 0 5px #ccc; border-radius: 0px;}
+.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide { border:1px solid rgba(0,0,0,0.1); box-shadow:0 0 5px #ccc; border-radius: 0px; }
 .our-service .swiper-slide { box-shadow: none!important; border: none!important;}
 .socialize,footer .footer-bg{border-top:1px solid rgba(255,255,255,0.2)}
 
