@@ -5,12 +5,17 @@
 @font-face { font-family: 'agaramondpro-regular'; src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot"); src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff2") format("woff2"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff") format("woff"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.ttf") format("truetype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.svg#agaramondpro-regular") format("svg"); font-weight: normal; font-style: normal; }
 
 
-body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
+body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; background: url(http://boardaboat.com/static/img/texture_0000_bgnoise_lg-copy-19.png) repeat top left #f4f4f4; }
 p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
 
 H1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 H2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 H3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
+
+.home-banner-text { color: #FFFFFF; }
+
+.tour-content h1 { font-size: 30px; line-height: 38px; }
+
 
 /* CSS for Bakground-1 */
 .return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
@@ -50,9 +55,11 @@ footer .footer-bg { background: #333333; }
 .our-service { background-color:rgba(0,0,0,0.05);}
 .pay-card-input .dropdown-menu li.focus,.pay-card-input .dropdown-menu li.selected,.pay-card-input .dropdown-menu li:hover,.search-panel .dropdown-menu li.selected,.search-panel .dropdown-menu li:focus,.search-panel .dropdown-menu li:hover,.search-result .dropdown-menu li.selected,.search-result .dropdown-menu li:hover{color:#42ac9b!important}
 
+.owl-carousel .owl-stage-outer { border-radius: 0px; }
+
 
 /* CSS for Borders Box Shadow Colors */
-.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide { background-color: #f1f1f1; border: none; border-radius: 0px; padding: 0px; }
+.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide { background-color: #ffffff; border: none; border-radius: 0px; padding: 20px; }
 .our-service .swiper-slide { box-shadow: none!important; border: none!important;}
 .socialize,footer .footer-bg{border-top:1px solid rgba(255,255,255,0.2)}
 
