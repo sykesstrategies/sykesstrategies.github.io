@@ -14,7 +14,7 @@ h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
-.home-banner-text .container p { color: #FFFFFF; }
+.home-banner-text .container p { font: normal 20px 'avenir-next-regular', Arial, Helvetica, sans-serif; font-weight: 500; color: #FFFFFF; }
 
 .tour-content h1 { font-size: 30px; line-height: 38px; }
 
