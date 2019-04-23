@@ -59,7 +59,7 @@ footer .footer-bg { background: #333333; }
 
 
 /* CSS for Borders Box Shadow Colors */
-.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide { background-color: #ffffff; border: none; border-radius: 0px; padding: 20px; }
+.book-box, .carousel-inner .item,.swiper-wrapper .swiper-slide { background-color: #ffffff; border: none; border-radius: 0px; padding: 16px; }
 .our-service .swiper-slide { box-shadow: none!important; border: none!important;}
 .socialize,footer .footer-bg{border-top:1px solid rgba(255,255,255,0.2)}
 
@@ -93,4 +93,4 @@ a.notdonestep { border: 1px solid #ecebe7; color: #333; }
 
 
 
-.search-tour-listing .item .tourimage-thumb, .tour-listing .item .tourimage-thumb, .tour-listing .swiper-slide .tourimage-thumb { border-radius: 0px;}
+.search-tour-listing .item .tourimage-thumb, .tour-listing .item .tourimage-thumb, .tour-listing .swiper-slide .tourimage-thumb { border-radius: 0px; height: 240px; max-height: 240px;}
