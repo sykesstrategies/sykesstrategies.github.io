@@ -8,9 +8,9 @@
 body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; background: url(http://boardaboat.com/static/img/texture_0000_bgnoise_lg-copy-19.png) repeat top left #f4f4f4; }
 p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
 
-H1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
-H2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
-H3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
+h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
+h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
+h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 .home-banner-text { color: #FFFFFF; }
 
