@@ -21,6 +21,8 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 .tour-content h1 { font-size: 30px; line-height: 38px; }
 
 
+.navbar-default.custom-fixed-top .logo { background: url(/assets/images/logo-fixed.png) left top no-repeat; }
+
 /* CSS for Bakground-1 */
 .return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
 .tour-section h2 span, .activity-footer a:hover, .activity-footer button:hover, .Form-label-checkbox+.Form-label-text:hover:before,.Form-label-radio+.Form-label-text:hover:before, .promo-form input[type=text] { border-color: #ff712c;}
@@ -30,7 +32,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 /* CSS for Bakground-2 */
 .livechat, .filter-toggle .filter-link, .discount-offer, .ui-datepicker-current-day { background-color:#1e2458!important; }
-.navbar-default.custom-fixed-top { background-color:#FFFFFF!important; box-shadow:0px 0px 10px #ccc; font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769;  }
+.navbar-default.custom-fixed-top { background-color:#FFFFFF!important; box-shadow:0px 0px 14px grey; font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769;  }
 
 
 
