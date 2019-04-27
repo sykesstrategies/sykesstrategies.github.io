@@ -18,7 +18,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 .home-banner-text .container h1 { font: normal 38px/44px 'agaramondpro-regular', Arial, Helvetica, sans-serif; }
 
-.tour-content h1 { font-size: 30px; line-height: 38px; }
+.tour-content h1 { font-size: 30px; line-height: 38px; font-weight: 500; }
 
 
 /* CSS for Bakground-1 */
@@ -42,6 +42,8 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 .main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
 .tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important;}
+
+.activity-title {text-align: center;}
 
 
 /* CSS for border Color */
