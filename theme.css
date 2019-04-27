@@ -14,7 +14,7 @@ h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
-.home-banner-text .container p { font: normal 20px 'avenir-next-regular', Arial, Helvetica, sans-serif; font-weight: 500; color: #FFFFFF; }
+.home-banner-text .container p { font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif; font-size: 20px;  font-weight: 500; color: #FFFFFF; }
 
 .home-banner-text .container h1 { font-family: 'agaramondpro-regular', Arial, Helvetica, sans-serif; font-size: 38px;  font-weight: 500; letter-spacing: 2px; }
 
