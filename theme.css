@@ -5,7 +5,7 @@
 @font-face { font-family: 'agaramondpro-regular'; src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot"); src: url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff2") format("woff2"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.woff") format("woff"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.ttf") format("truetype"), url("http:boardaboat.com/static/fonts/agaramondpro-regular-webfont.svg#agaramondpro-regular") format("svg"); font-weight: normal; font-style: normal; }
 
 
-body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; background: url(http://boardaboat.com/static/img/texture_0000_bgnoise_lg-copy-19.png) repeat top left #f4f4f4; }
+body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; }
 p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
 
 
@@ -30,7 +30,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 /* CSS for Bakground-2 */
 .livechat, .filter-toggle .filter-link, .discount-offer, .ui-datepicker-current-day { background-color:#1e2458!important; }
-.navbar-default.custom-fixed-top { background-color:#1E2458!important; box-shadow:0px 0px 10px #ccc; }
+.navbar-default.custom-fixed-top { background-color:#FFFFFF!important; box-shadow:0px 0px 10px #ccc; font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769;  }
 
 
 
