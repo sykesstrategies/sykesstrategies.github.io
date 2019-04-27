@@ -16,9 +16,9 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 .home-banner-text .container p { font: normal 20px 'avenir-next-regular', Arial, Helvetica, sans-serif; font-weight: 500; color: #FFFFFF; }
 
-.home-banner-text .container h1 { font: normal 38px/44px 'agaramondpro-regular', Arial, Helvetica, sans-serif; }
+.home-banner-text .container h1 { font-family: 'agaramondpro-regular', Arial, Helvetica, sans-serif; font-size: 38px;  font-weight: 500; }
 
-.tour-content h1 { font-size: 30px; line-height: 38px; font-weight: 500; }
+.tour-content h1 { font-size: 30px; line-height: 38px; }
 
 
 /* CSS for Bakground-1 */
