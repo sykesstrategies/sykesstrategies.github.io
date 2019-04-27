@@ -36,7 +36,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 /* CSS for Text Color */
 .search-panel .dropdown-menu .searchlist p,.search-result .dropdown-menu .searchlist p, .our-service h2 { color:#603721;}
-.top-navigation li a, .navbar-default .navbar-nav>li>a, .currency-selector .dropdown-toggle a { color:#3e3d40;}
+.top-navigation li a, .navbar-default .navbar-nav>li>a, .currency-selector .dropdown-toggle a { color:#203769;}
 
 /* CSS for LINK Color */
 
@@ -51,9 +51,9 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 
 /* CSS for White Color */
-.local-acitivity .box-caption, footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .caption-price a, .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#fff!important;}
-.navbar-default.custom-fixed-top .navbar-nav>li>a, .custom-fixed-top .currency-selector .dropdown-toggle a, .custom-fixed-top .top-navigation li a {color:#fff;}
-.custom-fixed-top .top-navigation li ul li a { color:#3e3d40;}
+.local-acitivity .box-caption, footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .caption-price a, .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#203769!important;}
+.navbar-default.custom-fixed-top .navbar-nav>li>a, .custom-fixed-top .currency-selector .dropdown-toggle a, .custom-fixed-top .top-navigation li a {color:#203769;}
+.custom-fixed-top .top-navigation li ul li a { color:#203769;}
 
 
 /* CSS for Extra Background Color */
