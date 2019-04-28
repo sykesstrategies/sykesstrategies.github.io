@@ -60,7 +60,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 .custom-fixed-top .top-navigation li ul li a { color:#203769;}
 
 /* CSS for White Color */
-footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .fav-acitivity .caption-price a { color:#FFFFFF!important;}
+footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .quicklinks p, .fav-acitivity .caption-price a { color:#FFFFFF!important;}
 
 
 /* CSS for Extra Background Color */
