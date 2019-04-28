@@ -7,7 +7,7 @@
 
 body { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; }
 p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color: #203769; }
-
+a { color: dimgrey; }
 
 
 h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500;}
@@ -23,7 +23,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 .tour-content h1 { font-size: 30px; line-height: 38px; }
 
 
-.navbar-default.custom-fixed-top .logo { background: url(/assets/images/logo-fixed.png) left top no-repeat; }
+.navbar-default.custom-fixed-top .logo { background: url(http://boardaboat.getlocal.travel/assets/images/logo-fixed.png) left top no-repeat; }
 
 /* CSS for Bakground-1 */
 .return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
