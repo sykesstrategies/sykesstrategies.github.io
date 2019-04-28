@@ -16,9 +16,9 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 
 .home-banner-text .container p { font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif; font-size: 20px;  font-weight: 500; color: #FFFFFF; letter-spacing: 1px; }
 
-.home-banner-text .container h1 { font-family: 'agaramondpro-regular', Arial, Helvetica, sans-serif; font-size: 38px;  font-weight: 500; letter-spacing: 2px; }
+.home-banner-text .container h1, .category-title h1 { font-family: 'agaramondpro-regular', Arial, Helvetica, sans-serif; font-size: 38px;  font-weight: 500; letter-spacing: 2px; }
 
-.category-title h1  { font-family: 'agaramondpro-regular', Arial, Helvetica, sans-serif; font-size: 38px;  font-weight: 500; letter-spacing: 2px; }
+ 
 
 .tour-content h1 { font-size: 30px; line-height: 38px; }
 
@@ -54,10 +54,13 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; }
 .final-order-review .promo-area { border-top:1px solid rgba(0,0,0,0.2); border-bottom:1px solid rgba(0,0,0,0.2); }
 
 
-/* CSS for White Color */
-.local-acitivity .box-caption, footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .caption-price a, .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#203769!important;}
+/* CSS for Blue Color */
+.local-acitivity .box-caption, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#203769!important;}
 .navbar-default.custom-fixed-top .navbar-nav>li>a, .custom-fixed-top .currency-selector .dropdown-toggle a, .custom-fixed-top .top-navigation li a {color:#203769;}
 .custom-fixed-top .top-navigation li ul li a { color:#203769;}
+
+/* CSS for White Color */
+footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .fav-acitivity .caption-price a { color:#FFFFFF!important;}
 
 
 /* CSS for Extra Background Color */
