@@ -10,9 +10,9 @@ p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color
 a { color: dimgrey; }
 
 
-h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500;}
-h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500;}
-h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500;}
+h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 2px;}
+h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 1px;}
+h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 1px;}
 
 .home-banner-text .container p { font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif; font-size: 20px;  font-weight: 500; color: #FFFFFF; letter-spacing: 1px; }
 
@@ -45,7 +45,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 /* CSS for LINK Color */
 
 .main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
-.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; text-transform: lowercase;}
+.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; }
 
 .activity-title {text-align: center;}
 
