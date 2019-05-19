@@ -50,7 +50,9 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 /* CSS for LINK Color */
 
 .main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
-.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; font-size: 20px; }
+.activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; }
+
+.tour-section h3  { color:#203769!important; font-size: 20px; }
 
 .activity-title {text-align: center;}
 
