@@ -24,7 +24,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 
 .bookinginfo { border-radius: 0px; background: #ffffff60; }
 
-.bookinginfo ul li, .info2 { color: #203769; font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif;  }
+.bookinginfo ul li, .bookinginfo .info2 { color: #203769; font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif;  }
 
 
 .navbar-default.custom-fixed-top .logo { background: url(http://boardaboat.getlocal.travel/assets/images/logo-fixed.png) left top no-repeat; }
