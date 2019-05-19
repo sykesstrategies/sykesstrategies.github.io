@@ -10,7 +10,7 @@ p { font: normal 16px 'avenir-next-regular', Arial, Helvetica, sans-serif; color
 a { color: dimgrey; }
 
 
-h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 2px;}
+h1 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 2px; color: #203769;}
 h2 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 1px;}
 h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight: 500; letter-spacing: 1px;}
 
@@ -26,6 +26,8 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 
 .bookinginfo ul li, .bookinginfo .info2 { color: #203769; font-family: 'avenir-next-regular', Arial, Helvetica, sans-serif;  }
 
+
+.tour-section ul li { color: #203769; } 
 
 .navbar-default.custom-fixed-top .logo { background: url(http://boardaboat.getlocal.travel/assets/images/logo-fixed.png) left top no-repeat; }
 
