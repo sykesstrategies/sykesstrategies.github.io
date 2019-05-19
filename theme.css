@@ -27,7 +27,8 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 
 /* CSS for Bakground-1 */
 .return-order, .Form-label-checkbox+.Form-label-text:hover::before, .Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text::before, .Form-label-radio+.Form-label-text::before,
-.tour-section h2 span, .activity-footer a:hover, .activity-footer button:hover, .Form-label-checkbox+.Form-label-text:hover:before,.Form-label-radio+.Form-label-text:hover:before, .promo-form input[type=text] { border-color: #ff712c;}
+.tour-section h2 span, .activity-footer a:hover, .activity-footer button:hover, .Form-label-checkbox+.Form-label-text:hover:before,.Form-label-radio+.Form-label-text:hover:before, .promo-form input[type=text] { color: #203769; border-color: #203769;}
+.tour-section h2 span, .activity-footer a:hover, .activity-footer button:hover, .Form-label-checkbox+.Form-label-text:hover:before,.Form-label-radio+.Form-label-text:hover:before, .promo-form input[type=text] { color: #203769; border-color: #203769;}
 .search-panel .search-button button, .search-result-button button, .checkout .order-submit-btn input[type=submit], .favourite-copy-link .fav-copylink,.general-button, .store-payment input[type=submit], .ui-datepicker-current-day, .fav-acitivity .caption-price a, .fav-acitivity button, .Form-label-checkbox:checked+.Form-label-text::before, .Form-label-radio:checked+.Form-label-text::before, input:checked+.slider, .newsletter-form button, .newsletter-form input[type=submit], .button a, .fav-acitivity .caption-price a,.fav-acitivity button, input:checked+.slider, .fav-acitivity .caption-price a, .fav-acitivity button, .swiper-wrapper .caption-price a, .swiper-wrapper button, .newsletter-form button, .newsletter-form input[type=submit], .service-list .swiper-slide a, .find-bus-button, .daterangepicker td.active,.daterangepicker td.active:hover,.daterangepicker td.in-range { border: 1px solid #203769; background-color:#203769; box-shadow:none!important;  padding: 15px 15px; font: normal 18px 'avenir-next-regular', Arial, Helvetica, sans-serif; color:#fff; }
 
 
@@ -45,7 +46,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 /* CSS for LINK Color */
 
 .main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
-.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; }
+.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; font-size: 20px;}
 
 .activity-title {text-align: center;}
 
