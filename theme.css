@@ -55,12 +55,12 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 
 
 /* CSS for Blue Color */
-.local-acitivity .box-caption, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .fav-acitivity button, .checkout .continue-button input,  footer footer .livechat:hover, .livechat  { color:#203769!important;}
+.local-acitivity .box-caption, .discount-offer, .ui-datepicker-current-day, .our-service, .service-list .swiper-slide a, .fav-acitivity .fav-acitivity button,   footer footer .livechat:hover, .livechat  { color:#203769!important;}
 .navbar-default.custom-fixed-top .navbar-nav>li>a, .custom-fixed-top .currency-selector .dropdown-toggle a, .custom-fixed-top .top-navigation li a {color:#203769;}
 .custom-fixed-top .top-navigation li ul li a { color:#203769;}
 
 /* CSS for White Color */
-footer .footer-bg a, footer .footer-bg a:hover, .quicklinks, .quicklinks h4, .quicklinks a, .quicklinks p, .fav-acitivity .caption-price a { color:#FFFFFF!important;}
+footer .footer-bg a, footer .footer-bg a:hover, .checkout .continue-button input, .quicklinks, .quicklinks h4, .quicklinks a, .quicklinks p, .fav-acitivity .caption-price a { color:#FFFFFF!important;}
 
 
 /* CSS for Extra Background Color */
@@ -79,7 +79,7 @@ footer .footer-bg { background: #333333; }
 .socialize,footer .footer-bg{border-top:1px solid rgba(255,255,255,0.2)}
 
 /* CSS for gradient button */
-.payment-flow .continue-button input[type=submit], .checkout .continue-button input, .promo-form input[type=button], .button-container button:focus, .button-container button:hover, .button-container button, .btn-continue { border:1px solid #1e2458;background:#1e2458; color:#fff;}
+.payment-flow .continue-button input[type=submit], .checkout .continue-button input, .promo-form input[type=button], .button-container button:focus, .button-container button:hover, .button-container button, .btn-continue { border:1px solid #1e2458; background:#1e2458; color:#fff; border-radius: 0px;}
 
 
 .add-favourite, .added-favourite {right: 0px; top: 0px; }
