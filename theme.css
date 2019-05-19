@@ -20,7 +20,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 
 .product-detail { background: #0101; height:230px; }
 
-.tour-content h1 { font-size: 30px; line-height: 38px; }
+.tour-content h1 { font-size: 30px; line-height: 38px; color: #203769; }
 
 
 .navbar-default.custom-fixed-top .logo { background: url(http://boardaboat.getlocal.travel/assets/images/logo-fixed.png) left top no-repeat; }
@@ -46,7 +46,7 @@ h3 {font-family: 'agaramondpro-regular'; text-transform: uppercase; font-weight:
 /* CSS for LINK Color */
 
 .main-navigation li.main-menu-link li a:hover, .order-details-edit a, .filter-toggle .filter-link, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .confirm-message a { color:#203769;}
-.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; font-size: 20px;}
+.tour-section h3, .activity-title h2, .box-caption h3 a, .carousel-inner .box-caption a, .carousel-inner .caption a, .promo-link:hover, .details-fav-section a:hover, .search-sorting .sorting a.active,.timesnap .cp-price b, .start-times-container .total a, .promo-link, .activity-footer a:hover, .activity-footer button:hover, .carousel-inner .box-caption a,.carousel-inner .caption a, .find-bus-button, .our-service a, .ranges li  { color:#203769!important; font-size: 20px; }
 
 .activity-title {text-align: center;}
 
